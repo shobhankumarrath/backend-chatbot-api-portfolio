@@ -1,5 +1,4 @@
+import serverless from "serverless-http";
 import app from "../app.js";
-export const config = {
-  runtime: "nodejs",
-};
-export default app;
+
+export default serverless(app);

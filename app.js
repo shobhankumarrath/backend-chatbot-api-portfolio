@@ -3,9 +3,17 @@ dotenv.config();
 
 import express from "express";
 import cors from "cors";
+import rateLimit from "express-rate-limit";
 import chatRoutes from "./routes/chatRoutes.js";
 
 const app = express();
+
+const limiter = rateLimit({
+  windowMs: 60 * 1000,
+  max: 20,
+});
+
+app.use(limiter);
 app.use(cors());
 app.use(express.json());
 

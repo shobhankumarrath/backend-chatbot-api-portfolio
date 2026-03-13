@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-chatbot-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobhankumarrath/backend-chatbot-api-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobhankumarrath/backend-chatbot-api-portfolio/issues"
+  },
+  "homepage": "https://github.com/shobhankumarrath/backend-chatbot-api-portfolio#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}

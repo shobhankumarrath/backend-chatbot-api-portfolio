@@ -1,0 +1,58 @@
+Name: Shobhan Kumar Rath
+Location: Bengaluru, India         
+|
+Phone Number: 8847881069
+Email: shobhanrath@gmail.com
+LinkedIn: linkedin.com/in/shobhan-rath
+|
+|
+Website: /Shobhan-kumar-rath/
+Github: Shobhan-Kumar-Rath
+Professional Summary
+Backend Developer (3+ years) specializing in high-performance Node.js microservices, Redis-based caching, and
+secure API design. Proven experience migrating monoliths to microservices, handling high-traffic workloads, and
+building CI/CD pipelines on Azure DevOps to improve system reliability and deployment speed.
+Skills
+Languages: JavaScript, TypeScript.
+Backend: Node.js, Express.js, REST APIs, Microservices.
+Databases: MySQL, PostgreSQL, Sequelize ORM, Redis.
+DevOps and Cloud: Azure DevOps, Git, GitHub, CI/CD Pipelines,  SonarQube, Black Duck.
+Testing and Tools: Postman, MySQL Workbench.
+Security: JWT Authentication & Authorization, Rate Limiting, CORS, API Keys, Input Validation & Sanitization.
+Work Experience
+Accenture – Packaged App Developer Analyst (Oct 2022 – Present)
+Tech Stack: Node.js, TypeScript, Express.js, MySQL, MongoDB, Azure DevOps, Redis
+• Developed and maintained 25+ REST APIs using Node.js and Express.js, improving production stability and
+reducing runtime errors by 30%.
+• Migrated a monolithic backend to a microservices architecture, improving service scalability and reducing downtime
+by 40%.
+• Optimized SQL queries and database indexing in MySQL/PostgreSQL, reducing API response time by 20%.
+• Implemented Redis-based caching and rate limiting to enhance API performance and protect services from abuse and
+excessive traffic.
+• Designed asynchronous background processing using Redis queues (BullMQ) to handle large file uploads and
+automated time-based cleanup using TTL.
+• Enhanced CI/CD pipelines in Azure DevOps with automated builds, testing, and static analysis, reducing release
+failures by 35%.
+Projects
+Medical Buddy - Node.js, Express, JWT, MongoDB, React                                                               
+Designed and implemented secure REST APIs with JWT-based authentication, supporting 1,000+ users with role
+based access control.
+Built Medical Buddy to simulate a real-world healthcare backend with authentication, scheduling, and role-based
+access.
+Data Visualization - React.js                                                                                                                  
+Built a fast-loading app that processes Excel files and renders bar charts in <5s.  
+Reduced data processing time by 20%, improving client reporting workflows.
+Test My Knowledge: -  React.js, Chakra UI, Node.js, Express, Nodemailer, Render 
+Designed a full-stack quiz application with subject-wise timed quizzes and email score reports.  
+Integrated secure backend (validation, rate-limiting, API key protection) and deployed on Render.  
+Education
+Chandigarh University, Punjab - MCA (Master of Computer Applications) 
+Aug 2020 - June 2022 | CGPA: 8.45
+Certifications
+SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+Microsoft | June 2024
+Portfolio & Projects
+Portfolio: shobhankumarrath.github.io/Shobhan-Kumar-Rath-Portfolio/ 
+Medical Buddy: medical-buddy.netlify.app/login 
+Data Visualization: shobhankumarrath.github.io/DataVisualization/ 
+Test My Knowledge: shobhankumarrath.github.io/Test_my_knowledge_frontend

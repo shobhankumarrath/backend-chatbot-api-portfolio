@@ -10,6 +10,13 @@ export async function chatController(req, res) {
         message: "Message is required",
       });
     }
+
+    if (process.env.DISABLE_AI === "true") {
+      return res.status(200).json({
+        reply: "Test response from deployed API (AI disabled).",
+      });
+    }
+
     const reply = await generateReply(message);
 
     const formattedReply = reply.replace(/\n/g, "<br>");
